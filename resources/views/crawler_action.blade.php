@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
+<head>
+    @include('style')
+</head>
 <body>
 <div id="page-wrapper">
 
