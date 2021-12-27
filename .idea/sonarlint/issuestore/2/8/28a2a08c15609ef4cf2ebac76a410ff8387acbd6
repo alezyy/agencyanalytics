@@ -1,0 +1,5 @@
+
+s	php:S1488"^Immediately return this expression instead of assigning it to the temporary variable "$value".(¿½¹Ž
+s	php:S1488"^Immediately return this expression instead of assigning it to the temporary variable "$value".(ŠÉ‚¯
+x	php:S14882"^Immediately return this expression instead of assigning it to the temporary variable "$value".(Ì“õ×þÿÿÿÿ
+x	php:S1488K"^Immediately return this expression instead of assigning it to the temporary variable "$value".(™ž‰Ûþÿÿÿÿ

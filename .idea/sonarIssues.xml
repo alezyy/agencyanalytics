@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/app/Http/Controllers/Admin/CommonController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/Http/Controllers/CommonController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/Http/Controllers/MinistryController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/Http/Controllers/PageController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/Http/Controllers/ProfileController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resources/lang/es/lang.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resources/lang/fr/lang.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resources/views/admin/navigation.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resources/views/admin/template/vendors/jquery-validation/dist/jquery.validate.min.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resources/views/contact.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resources/views/crawler_action.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resources/views/footer.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resources/views/header.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resources/views/index.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resources/views/newsletter_mail.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resources/views/script.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resources/views/theme/validate/jquery.bvalidator.min.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/routes/web.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/sitemap.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="&lt;9d856f18-ba07-491f-ad93-89a59870a042&gt;/.env">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="&lt;9d856f18-ba07-491f-ad93-89a59870a042&gt;/public/storage/log/log.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="&lt;9d856f18-ba07-491f-ad93-89a59870a042&gt;/routes/web.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="&lt;9d856f18-ba07-491f-ad93-89a59870a042&gt;/sitemap.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

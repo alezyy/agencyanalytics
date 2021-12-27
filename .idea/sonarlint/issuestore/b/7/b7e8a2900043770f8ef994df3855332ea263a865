@@ -1,0 +1,15 @@
+
+S	php:S1481Ü"1Remove this unused "$failedRules" local variable.(‰® ìÿÿÿÿÿ8Á´ĞÆŞ/
+L	php:S1481é"/Remove this unused "$event_url" local variable.(ìğø‚8Á´ĞÆŞ/
+R	php:S1481‹"0Remove this unused "$user_token" local variable.(‡šù üÿÿÿÿ8Á´ĞÆŞ/
+;php:S125Ÿ"Remove this commented out code.(ğŠó£8Á´ĞÆŞ/
+@php:S125ö"Remove this commented out code.(äËüˆúÿÿÿÿ8ëïÇŞ/
+;php:S125ó"Remove this commented out code.(ó¯ôÀ8¶‘íÇŞ/
+	php:S1448"lClass "CommonController" has 32 methods, which is greater than 20 authorized. Split it into smaller classes.(¶¤ùÍÿÿÿÿÿ8Á´ĞÆŞ/
+@php:S125™"Remove this commented out code.(ÏÄûÆúÿÿÿÿ8ªõ…ÈŞ/
+S	php:S1481"1Remove this unused "$failedRules" local variable.(‰® ìÿÿÿÿÿ8Á´ĞÆŞ/
+u	php:S3776t"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(ÏšÿÚùÿÿÿÿ8Á´ĞÆŞ/
+:php:S125ı"Remove this commented out code.(şÑâV8ºÓüÇŞ/
+J	php:S1481ô"-Remove this unused "$website" local variable.(¯ó™Í8ëïÇŞ/
+X	php:S1481Ä";Remove this unused "$password_confirmation" local variable.(î”Ç…8Á´ĞÆŞ/
+;php:S125“"Remove this commented out code.(½‘±¬8ã™ÈŞ/

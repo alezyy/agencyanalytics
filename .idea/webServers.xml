@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9d856f18-ba07-491f-ad93-89a59870a042" name="Agency Analytics">
+        <fileTransfer rootFolder="/var/www/agencyanalytics" accessType="SFTP" host="23.92.21.108" port="22" sshConfigId="ddb3a651-502d-431c-8640-930af0575c8b" sshConfig="root@23.92.21.108:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
