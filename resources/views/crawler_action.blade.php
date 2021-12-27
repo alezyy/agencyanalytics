@@ -1,14 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    @if($allsettings->display_contact == 1)
-        <title>{{ Helper::translation(36,$translate) }} - {{ $allsettings->site_title }}</title>
-    @else
-        <title>404 not found - {{ $allsettings->site_title }}</title>
-    @endif
-    @include('style')
-    {!! NoCaptcha::renderJs() !!}
-</head>
 <body>
 <div id="page-wrapper">
 
